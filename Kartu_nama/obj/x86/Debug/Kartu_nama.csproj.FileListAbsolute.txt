@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\bin\Debug\Kartu_nama.exe
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\bin\Debug\Kartu_nama.pdb
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.Login.resources
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.exe
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.pdb
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.MainForm.resources
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.Pembayaran.resources
+c:\users\acer\documents\visual studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.AmbilBarang.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.Poto_viewer.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.Reporting1.resources
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Kartu_nama\Kartu_nama\obj\x86\Debug\Kartu_nama.PrintOrderViewer.resources
